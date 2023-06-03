@@ -8,20 +8,28 @@ Based on open source projects switchaudio-osx and Automator
 ## Usage
 
 1. You should open your terminal and type ```brew install switchaudio-osx```
-
-   <img src="/Users/niuxiangchen/Downloads/Switch-Speakers-to-Airpods/image-20230603173022344.png" alt="image-20230603173022344" style="zoom:50%;" />
-
-
+![image](https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/ba41e2c9-a340-4642-ad0a-cda59cc590cb)
 
 2. Enter ```brew list switchaudio-osx``` in the terminal to get the path of switchaudio-osx 
-
-<img src="/Users/niuxiangchen/Downloads/Switch-Speakers-to-Airpods/image-20230603173434385.png" alt="image-20230603173434385" style="zoom:50%;" />
-
-
+![image](https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/67f40747-12f2-4e0e-b81c-6c28173a967a)
 
 3. Open the automation and import the file
-   <img src="/Users/niuxiangchen/Library/Application Support/typora-user-images/image-20230603173737992.png" alt="image-20230603173737992" style="zoom:50%;" /><img src="/Users/niuxiangchen/Library/Application Support/typora-user-images/image-20230603173821834.png" alt="image-20230603173821834" style="zoom:50%;" /><img src="/Users/niuxiangchen/Library/Application Support/typora-user-images/image-20230603173926402.png" alt="image-20230603173926402" style="zoom:50%;" />
+  ![image](https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/4d756d27-55c1-430b-9f32-57320b929ef0)
+![image](https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/1ef4fcc7-720c-4c0d-93cd-1e637e222e72)
+
 4. Replace AirPodsName and SpeakersName with the names of your devices
-5. Replace all paths with your own SwitchAudioSource path<img src="/Users/niuxiangchen/Library/Application Support/typora-user-images/image-20230603174051070.png" alt="image-20230603174051070" style="zoom:33%;" />
-6. Open the keyboard shortcut settings in the system settings and set the shortcut keys you want<img src="/Users/niuxiangchen/Downloads/Switch-Speakers-to-Airpods/image-20230603174646029.png" alt="image-20230603174646029" style="zoom:50%;" />
-7. Press the shortcut key, you will switch successfully<img src="/Users/niuxiangchen/Library/Application Support/typora-user-images/image-20230603174757516.png" alt="image-20230603174757516" style="zoom:50%;" />
+<img width="567" alt="image" src="https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/e5c7edce-889a-4611-90cf-5eec6953d1aa">
+
+5. Replace all paths with your own SwitchAudioSource path
+<img width="599" alt="image" src="https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/721734b4-928b-49d7-a64e-4bc2aadc2b8c">
+
+6. Export the automation, and install the service
+<img width="400" alt="image" src="https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/bee56326-f223-45f9-a85b-cd6ed716272c">
+<img width="117" alt="image" src="https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/de1e10b7-5ece-4bbc-b72c-f8822ae2f412">
+<img width="490" alt="image" src="https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/3901531e-b16e-45fc-9a4d-eeada7a1e6e2">
+
+7. Open the keyboard shortcut settings in the system settings and set the shortcut keys you want
+<img width="670" alt="image" src="https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/ec089b79-aedb-4027-9958-2b3ee7b7c9c6">
+
+8.  Press the shortcut key, you will switch successfully
+<img width="533" alt="image" src="https://github.com/niuxiangchen/Switch-Speakers-to-Airpods/assets/72585683/843abc36-0ad5-43e2-9503-5aa6143adddc">
